@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Product+Sans');
+
+body	{
+	background-color: rgb(30, 33, 36);
+	color: rgba(114, 137, 218, 90);
+	font-family: "Product Sans";
+	padding-top: 15px;
+	margin: auto;
+}
+
+.bgsumi	{
+	background-image: url(sumibg01.png);
+    background-position: left;
+    width: auto;
+    height: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+	width: auto;
+	background-color: rgba(114, 137, 218, 90);
+	position: sticky;
+	position: -webkit-sticky; /* Chrome */
+	text-align: center;
+}
+
+.judulutama	{
+	color: white;
+	font-size: 150%;
+	text-align: center;
+}
+
+.subjudul	{
+	text-align: center;
+}
+
+.content	{
+	text-align: right;
+	margin-right: 30px;
+}
+
+a	{
+	color: #bebece;
+}
+
+footer	{
+	font-size: 80%;
+	position:absolute;
+	bottom: 0;
+	width: 100%;
+	height: 150px;
+	right: 30px;
+	text-align: right;
+}
+
+afooter	{
+	text-align: right;
+	position: -webkit-sticky; /* Chrome */
+    display: block;
+    position: static;
+    float: right;
+    overflow: hidden;
+    bottom: 60px;
+    margin-right: 60px;
+}
