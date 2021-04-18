@@ -1,2 +1,2 @@
 # ritokatsuga.github.io
-Self-explanatory
+https://ritokatsuga.github.io
